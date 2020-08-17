@@ -1,8 +1,6 @@
 # Clean Code
 
 ## Table of Contents
-- [Clean Code](#clean-code)
-  * [Table of Contents](#table-of-contents)
 - [Functions](#functions)
   * [Small](#small)
   * [Do One Thing](#do-one-thing)
